@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+
+# Third-party material and bulk data (see SOURCES.md)
+research/sources/
+research/corpus/
+
+# Run logs
+*.log
+*.err
+*.out
